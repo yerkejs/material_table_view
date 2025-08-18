@@ -1,3 +1,6 @@
+## 5.5.1
+- Fixed a bug in `computeMaxIntrinsicHeight` of `TableView`.
+
 ## 5.5.0
 - New `ExpandableTableRow` widget.
 - New `TableRowAnimatedSize` widget.
