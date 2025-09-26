@@ -1,3 +1,10 @@
+## 5.5.2
+- Fixed incompatibility with Flutter 3.35.
+- Added constraint on Flutter version >=3.35.0.
+
+## 5.5.1
+- Fixed a bug in `computeMaxIntrinsicHeight` of `TableView`.
+
 ## 5.5.0
 - New `ExpandableTableRow` widget.
 - New `TableRowAnimatedSize` widget.
